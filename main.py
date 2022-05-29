@@ -1,3 +1,8 @@
+"""This is designed to calculate a set of roman numerals by assigning each their numerical value in a dictionary and then checking their position 
+and the value of adjacent numerals to determine whether they need to be summed or subtracted"""
+
+
+
 
 class Solution:
  def romanToInt(s: str) -> int:
